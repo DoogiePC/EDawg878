@@ -3,7 +3,7 @@ name: Crash report
 about: Report a server crash or client crash here
 title: ''
 labels: Crash
-assignees: ''
+assignees: DoogiePC
 
 ---
 

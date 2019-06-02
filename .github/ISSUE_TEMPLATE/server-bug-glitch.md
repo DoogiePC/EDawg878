@@ -3,7 +3,7 @@ name: Server Bug/Glitch
 about: Report a bug/glitch on the server (Do not report crashes here)
 title: ''
 labels: Bug
-assignees: ''
+assignees: DoogiePC
 
 ---
 

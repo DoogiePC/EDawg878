@@ -14,13 +14,13 @@ Where does the bug occur? The server, if so which or the website.
 A clear and concise description of what the bug is.
 
 **To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
+Steps to reproduce the behaviour:
+1. Get this block
+2. Right click 10 times
+3. Run around your plot
 4. See error
 
-**Expected behavior**
+**Expected behaviour**
 A clear and concise description of what you expected to happen.
 
 **Screenshots**

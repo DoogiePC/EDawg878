@@ -1,6 +1,6 @@
 ---
 name: Bug/Glitch
-about: Report a bug/glitch on the server or website
+about: Report a bug/glitch on the server or website (Do not report crashes here)
 title: ''
 labels: Bug
 assignees: ''

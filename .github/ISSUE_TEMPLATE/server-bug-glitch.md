@@ -15,10 +15,8 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behaviour:
-1. Get this block
-2. Right click 10 times
-3. Run around your plot
-4. See error
+1. ...
+2. ...
 
 **Expected behaviour**
 A clear and concise description of what you expected to happen.
